@@ -1,2 +1,2 @@
-# statistical-and-mathematical-uncertainty-analysis
-Bayesian uncertainty and decision analysis in Python: a from-scratch Metropolis-Hastings MCMC sampler, model averaging, and LINEX-based decision-making.
+# Statistical and Mathematical Uncertainty Analysis
+Bayesian uncertainty and decision analysis built for a risk-modelling course at LTH. The project implements a Metropolis-Hastings MCMC sampler from scratch in Python and validates it against a reference NUTS sampler (Bambi/PyMC). It covers Bayesian model averaging via ELPD weights, benchmark-dose modelling with numerical BMD derivation, bias adjustment across data sources, and optimal decision-making under an asymmetric LINEX loss function. The work spans parameter uncertainty, structural (model) uncertainty, and non-probabilistic scenario uncertainty.
